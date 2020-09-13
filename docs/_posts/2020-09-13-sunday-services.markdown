@@ -13,7 +13,7 @@ date:   2020-09-13 08:15:48 +0000
 Zoom 視頻
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe width="862" height="485" src="https://www.youtube.com/embedCjBgo6zjGSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="862" height="485" src="https://www.youtube.com/embed/CjBgo6zjGSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## 2020-09-06 主日敬拜：Zoom 視頻
