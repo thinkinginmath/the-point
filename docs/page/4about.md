@@ -1,11 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: default
+layout: page
+title: Zoom信息
+permalink: /about/
+icon: user-o
+type: page
 ---
 
-## Zoom 信息
+
 
 主日敬拜 周天 10:30am-12:00pm <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=M2kzMnFlbGZhYnM4bjNvamkxYWM1cmppbGVfMjAyMDA5MjBUMTczMDAwWiB3ZWlkb25nc2hhb0Bt&amp;tmsrc=weidongshao%40gmail.com&amp;scp=ALL"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>   
 [https://thepoint.zoom.us/j/95808449209](https://thepoint.zoom.us/j/95808449209).
@@ -21,10 +22,5 @@ layout: default
   [https://thepoint.zoom.us/j/98204585226](https://thepoint.zoom.us/j/98204585226).
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+

@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "2020-09-13 主日學及主日敬拜信息"
+title:  "2020-09-13 主日信息"
 date:   2020-09-13 08:15:48 +0000
+categories:
+   - Sunday Service
+   - 主日学
+author: David Wei Shao
 ---
 
 ## 2020-09-13 主日敬拜：愛人如己  
