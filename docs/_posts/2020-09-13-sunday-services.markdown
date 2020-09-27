@@ -8,20 +8,18 @@ categories:
 author: David Wei Shao
 ---
 
-## 2020-09-13 主日敬拜：愛人如己  
+## 主日敬拜：愛人如己
 Zoom 視頻
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="1779" height="673" src="https://www.youtube.com/embed/A2HryxOOFJ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtubePlayer.html id="A2HryxOOFJ8" %}
 
-## 2020-09-13 主日學：何西阿書
+
+## 主日學：何西阿書
 
 Zoom 視頻  
 
-<div class="embed-responsive embed-responsive-16by9">
-<iframe width="862" height="485" src="https://www.youtube.com/embed/CjBgo6zjGSI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtubePlayer.html id="CjBgo6zjGSI" %}
+
 
 錄音  
 <div class="embed-responsive">
