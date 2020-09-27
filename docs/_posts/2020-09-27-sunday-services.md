@@ -6,7 +6,7 @@ categories:
    - Sunday Service
    - 主日学
 author: David Wei Shao
-
+image: /assets/tpoint-seo.png
 ---
 
 
