@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2020-10-05 主日信息"
+title:  "2020-10-04 主日信息"
 date:   2020-10-06 11:15:48 +0000
 categories:
    - Sunday Service
@@ -10,7 +10,7 @@ image: /assets/tpoint-seo.png
 ---
 
 
-## 2020-10-04 主日敬拜：悔改與滅亡
+## 證道主題：悔改與滅亡
 Zoom 視頻
 
 {% include youtubePlayer.html id="7M2bbYkIaSA" %}
