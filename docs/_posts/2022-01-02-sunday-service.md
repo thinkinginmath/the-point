@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2020-10-04 主日信息"
-date:   2020-10-06 11:15:48 +0000
+title:  "2022-01-02 主日信息"
+date:   2022-01-02 11:15:48 +0000
 categories:
    - Sunday Service
 
