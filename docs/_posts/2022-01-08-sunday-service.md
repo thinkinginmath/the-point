@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2022-01-08 Notice"
-date:   2020-10-06 11:15:48 +0000
+date:   2020-01-08 11:15:48 +0000
 categories:
    - Sunday Service
 
