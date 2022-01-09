@@ -8,7 +8,7 @@
 # Site settings
 title: 常青谷國語堂
 brief-intro: 國語堂小組活動、主日敬拜信息
-baseurl: "/the-point" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.guoyutang.church/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
